@@ -9,4 +9,18 @@
 
     <string name="lorem_ipsum">Lorem ipsum dolor sit amet, has meis constituam in, id propriae constituam qui. Ne quis diceret est. Nullam delectus cu pro. Illud tritani et sea, ea vix aliquip placerat. Quodsi laoreet minimum in nam. Ad sit diceret debitis periculis, pri feugiat fuisset molestie id.</string>
     <string name="logout">Logout</string>
+    <string name="information">
+        Information\n
+        Teman" bisa mengisi kolom kritik berupa fitur apa yang pengen di tambahkan,warna yang cocok atau teman" bisa share informasi apapun yang dapat membangun\n
+        Trimakasih Sudah Menginstal aplikasi ini, aplikasi ini hanya sebagai demo aplikasi untuk para developer indonesia yang ingin memdangun aplikasi chat.\n
+        bagi temen" yang ingin berterimakasih bisa di wujutkan dengan mengirimkan nasi padang ke kordinat\n
+        73.990265, -69.388606 :)\n
+        untuk sources code bisa di download di:\n
+        Android Aplication : http://bit.ly/2qkYL08\n
+        Could Function : http://bit.ly/2qTXsbh
+    </string>
+    <string name="contac">Phone Number/idline/telegram</string>
+    <string name="criticism_and_suggestions">Criticism and Suggestions</string>
+    <string name="submit">Submit</string>
+    <string name="information_menu">Information</string>
 </resources>

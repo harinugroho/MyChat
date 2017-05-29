@@ -147,9 +147,20 @@ public class MainActivity extends AppCompatActivity {
             case R.id.logout:
                 logout();
                 return true;
+            case R.id.information:
+                goToInformationActivity();
+                return true;
             default:
                 return super.onOptionsItemSelected(item);
         }
+    }
+
+    /**
+     * untuk nerganti ke activity information
+     */
+    private void goToInformationActivity() {
+        Intent intent = new Intent(MainActivity.this, InformationActivity.class);
+        startActivity(intent);
     }
 
     /**

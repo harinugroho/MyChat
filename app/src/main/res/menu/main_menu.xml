@@ -5,4 +5,9 @@
         android:id="@+id/logout"
         android:title="@string/logout"
         app:showAsAction="withText"/>
+    <item
+        android:id="@+id/information"
+        android:title="@string/information_menu"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_info_outline"/>
 </menu>
